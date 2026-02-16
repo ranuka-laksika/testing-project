@@ -1,6 +1,4 @@
-# One Tuesday, Three Rejections
-
-### A story about an application that kept getting blocked — and exactly why each time was different
+# A story about an application that kept getting blocked — and exactly why each time was different
 
 ---
 
